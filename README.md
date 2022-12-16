@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**AdonJava/AdonJava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ey! 👋
+I'm adonijah, a 11 years old web developer from Florida.
 
-Here are some ideas to get you started:
+🧭 Co-Owner at @CTDSTUDIOS @CTDMANAGMENT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Skills
+👨‍💻 TypeScript, JavaScript, PHP, C#
+⚙️ React, Svelte, Vue
+👁️ SASS, CSS, Stylus
+💽 MySQL, SQL, Mongo
+Python 3 Html
+https://github-readme-stats.vercel.app/api?username=AdonJava&theme=radical
